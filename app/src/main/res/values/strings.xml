@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Circle Link</string>
+    <string name="dont_have_acc">Dont have an account?</string>
+    <string name="have_acc">Already have an account?</string>
+    <string name="forgot">Enter your email to reset Password.</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="voucher">Voucher</string>
+    <string name="history">History</string>
+    <string name="card">Card</string>
+    <string name="location">Location</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+</resources>

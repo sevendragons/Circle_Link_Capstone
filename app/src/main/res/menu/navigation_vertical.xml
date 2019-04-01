@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/profile"
+        android:title="@string/voucher" />
+
+    <item
+        android:id="@+id/support"
+        android:icon="@drawable/message"
+        android:title="@string/history" />
+
+    <item
+        android:id="@+id/rate"
+        android:icon="@drawable/favourite"
+        android:title="@string/card" />
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/setting"
+        android:title="@string/location" />
+ <item
+        android:id="@+id/signOut"
+        android:icon="@drawable/logout"
+        android:title="@string/location" />
+
+</menu>
